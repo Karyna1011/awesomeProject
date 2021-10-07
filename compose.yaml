@@ -1,0 +1,6 @@
+rpc:
+  endpoint: http://localhost:8545/
+
+log:
+  level: debug
+  disable_sentry: true
